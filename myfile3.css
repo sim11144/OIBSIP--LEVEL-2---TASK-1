@@ -1,0 +1,39 @@
+body{
+    background-color: #ffffff;
+}
+h1{
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #182175;
+}
+.container{
+    text-align: center;
+    margin-top: 20px;
+}
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 21px;  /* this makes corner round */
+    border: 4px solid #232b23;
+    font-size: 34px;
+    width: 456px;
+    height: 65px;
+}
+button{
+    border-radius: 60px;
+    font-size: 40px;
+    background: #e95079;
+    width: 100px;
+    height: 65px;
+    margin: 4px;
+}
+.calculator{
+    border: 4px solid rgb(255, 255, 255);
+    background-color: #000000;
+    padding: 28px;
+    border-radius: 53px;
+    display: inline-block;
+    
+}
